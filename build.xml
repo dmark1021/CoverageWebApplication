@@ -10,7 +10,7 @@
     <property name="deprecation" value="off" />
     <property name="optimize" value="off" />
 
-	<property name="web.dir" value="webcontent"/>
+	<property name="web.dir" value="WebContent"/>
     <property name="src.dir" value="src" />
    	<property name="dist.dir" value="dist"/>
 	<property name="baseofdist.dir" value="coverage"/>
